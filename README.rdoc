@@ -1,12 +1,17 @@
-testing specs for recipes:
-name: string
-summary: text
-description: text
+This is a sample Web application built on Rails 4. Some of the key concepts I learned during the learnig process are as follows
 
-- name must be present
-- name must be between 5 characters & less than 100 characters
--summary must be present
--summary must be between 10 characters & less than 150 characters
--decription must be present
--must be 20-500 characters
-chef_id must be present
+- Working with git for version control and github as code repository, including cloning apps
+
+- Rails MVC structure in-depth - Models, Views, Controllers
+
+- Conceptualization and Design using wireframing tools
+
+- Building own authentication system from scratch using default Rails stack, including admin feature, log in/logout and signup
+
+- Working with Bootstrap for UI, Amazon Web Services for file/image hosting, file uploaders, Gravatars
+
+- Test Driven Development (TDD) for certain features using Minitest
+
+- Model and non-model backed forms, implementing like/dislike voting feature
+
+- Migrations, one-to-many and many-to-many associations at the database layer and implementation using Rails and ActiveRecord 

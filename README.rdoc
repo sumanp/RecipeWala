@@ -1,4 +1,4 @@
-This is a sample Web application built on Rails 4. Some of the key concepts I learned during the learnig process are as follows
+This is a sample Web application built on Rails 4. Some of the key concepts I learned during the process are as follows
 
 - Working with git for version control and github as code repository, including cloning apps
 
